@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.dub.spring</groupId>
-	<artifactId>Gutenberg3</artifactId>
+	<artifactId>Gutenberg</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>Gutenberg3</name>
+	<name>Gutenberg</name>
 	<description>Demo project for MongoDB</description>
 
 	<parent>
