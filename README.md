@@ -9,9 +9,13 @@ The database gutenbergDB used in this demo can be prepopulated using the attache
 Five collections are used:
 
 categories: book categories
+
 books: books
+
 orders: orders to be placed or already placed on this site
+
 user: users registered to this site
+
 reviews: reviews of books written by registered users
 
 All orders can be persisted with a state that can be:
